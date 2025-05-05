@@ -1,0 +1,36 @@
+.minha-navbar {
+    border: 0.5px solid #F2CB05;
+    /* Contorno verde */
+}
+
+.minha-navbar2 {
+    border: 1px solid #F2CB05;
+    /* Contorno verde */
+}
+
+.fundo{
+    background-image: ;
+}
+
+.input-fixo {
+    text-align: left;
+    width: 200px;
+    /* text-align: left; */
+
+}
+
+.td-fixo {
+
+    width: 100px;
+
+}
+
+
+.td-fixo3 {
+    width:100px;
+
+}
+
+
+
+/* Depois de incluir meus CSS aqui, eu tenho que incluir o percurso desta página no template usado por exemplo: template.blade.php */
